@@ -1,0 +1,278 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mnicorp.io" resolutions="1x" timestamp="1679418256445">
+  <folder name="css">
+    <file name="site_global.css" crc="488671190"/>
+    <file name="master_a-master.css" crc="69895606" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="316687426" ref="index"/>
+    <file name="index.css" crc="3906121034" ref="index"/>
+    <file name="nomq_index.css" crc="392541275" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="io.manditoken.portfolio.apk" crc="26637006" seo="true" mt="1668853127000"/>
+    <file name="red1.mp4" crc="163250220" seo="true" mt="1669623124000"/>
+    <file name="mni-pitch-deck-(20-jan-23).pdf" crc="4130040402" seo="true" mt="1674985302000"/>
+    <file name="mni-process-flow-iiii.pdf" crc="3832704210" seo="true" mt="1679418038000"/>
+    <file name="legal-memo---11.01.2023-signed-iiii.pdf" crc="4210613559" seo="true" mt="1679418032000"/>
+    <file name="mni-pitch-deck-2-mar-iiii.pdf" crc="3919058582" seo="true" mt="1679418028000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="374224540" ref="index"/>
+    <file name="white2.png" crc="468465070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-mni-2022-white-text.png" crc="4253891017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polygon-fixed-2.svg" crc="443702478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polygon fixed 2_poster_.png" crc="4273827262" ref="index"/>
+    <file name="main-iiiι.svg" crc="3981480379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main iiiι_poster_.png" crc="275971508" ref="index"/>
+    <file name="v2-image.svg" crc="3800129809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v2 image_poster_.png" crc="3895355022" ref="index"/>
+    <file name="smart-contract-icon.svg" crc="3872356916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smart contract icon_poster_.png" crc="3798414084" ref="index"/>
+    <file name="dao-v2.svg" crc="4133088916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dao v2_poster_.png" crc="3854469834" ref="index"/>
+    <file name="nfe-v2.svg" crc="236551473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nfe v2_poster_.png" crc="4111733640" ref="index"/>
+    <file name="nfe-v1-minting.svg" crc="3915510242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nfe v1 minting_poster_.png" crc="237033586" ref="index"/>
+    <file name="apr-v2.svg" crc="192627609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apr v2_poster_.png" crc="4164478158" ref="index"/>
+    <file name="v1.svg" crc="433158609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v1_poster_.png" crc="168995537" ref="index"/>
+    <file name="funding-3d.png" crc="4112534106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3d-token-2022-3.svg" crc="3873202714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3d-token-2022 3_poster_.png" crc="183397941" ref="index"/>
+    <file name="roadmap 1.jpg" crc="256486422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wayne.svg" crc="3872314089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wayne_poster_.png" crc="3876198287" ref="index"/>
+    <file name="logo-mni-2023.png" crc="3828735699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="costa ii.png" crc="134074064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-3.svg" crc="410128541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-3_poster_.png" crc="402650017" ref="index"/>
+    <file name="hadji.svg" crc="4288262221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hadji_poster_.png" crc="212974919" ref="index"/>
+    <file name="2.svg" crc="3969234399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_poster_.png" crc="434810357" ref="index"/>
+    <file name="1.svg" crc="4189884412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_poster_.png" crc="4065928320" ref="index"/>
+    <file name="patr.svg" crc="3981138131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patr_poster_.png" crc="4111466140" ref="index"/>
+    <file name="7.svg" crc="279029680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_poster_.png" crc="59124087" ref="index"/>
+    <file name="6.svg" crc="310929867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_poster_.png" crc="4090847300" ref="index"/>
+    <file name="rama pic.png" crc="498005185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juan pic.png" crc="4157346432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_20221127-122535.jpg" crc="417575585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_20221127-122518.jpg" crc="4030076182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_20221127-122650.jpg" crc="3924464957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1476e9802b5e08e9572d56.png" crc="465629550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2560px-uniswap_logo_and_wordmarksvg.png" crc="4007617397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork-835.svg" crc="4162744288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 835_poster_.png" crc="58521468" ref="index"/>
+    <file name="link-social.svg" crc="4003041025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="link social_poster_.png" crc="3852611100" ref="index"/>
+    <file name="artwork-849.svg" crc="3832693880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 849_poster_.png" crc="4270082339" ref="index"/>
+    <file name="artwork-850.svg" crc="455240328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 850_poster_.png" crc="172105232" ref="index"/>
+    <file name="mobile-bg.jpg" crc="3849594910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="burger.png" crc="4156190315" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo_2023-02-10_02-00-21.jpg" crc="272054257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-color-svgrepo-com.svg" crc="422264680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-color-svgrepo-com_poster_.png" crc="4258091636" ref="index"/>
+    <file name="v2-image.png" crc="4212415098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dao-v1.png" crc="314103404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nfe-v1.png" crc="4005394793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apr-v1.png" crc="418238721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v12.svg" crc="433158609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v1_poster_2.png" crc="168995537" ref="index"/>
+    <file name="funding-3d194x253.png" crc="144677799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road1.jpg" crc="4042196768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road2.jpg" crc="4242495138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road3.jpg" crc="4225186767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22.svg" crc="3872314089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_poster_2.png" crc="3876198287" ref="index"/>
+    <file name="bil.jpg" crc="236517417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uni.jpg" crc="4136158220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="473957700" seo="true" mt="1679418218904" redirect="true"/>
+</manifest>
